@@ -8,5 +8,5 @@ Week 5: Neural Networks: Feedforward & Cost Function, Sigmoid Gradient, Backprop
 Week 6: Learning Curves, High Bias vs. Variance, Polynomical Feature Mapping, Cross Validation Curve. <br/><br/>
 Week 7: Support Vector Machines. <br/><br/>
 Week 8: K Clustering and Principal Component Analysis. <br/><br/>
-Week 8: Anamoly Detection and Predictor Systems such as Collaberative Filtering. <br/><br/>
+Week 9: Anamoly Detection and Predictor Systems such as Collaberative Filtering. <br/><br/>
 
