@@ -1,7 +1,7 @@
 # MachineLearningCoursera
-Solution to all weekly assignments of Andrew Ng's Machine Learning course in Octave. 
+Solution to all weekly assignments of Andrew Ng's Machine Learning course in Octave. <br/>
 
-Week 2: Linear Regression - Cost Function, Gradient Descent & Feature Normalization
+Week 2: Linear Regression - Cost Function, Gradient Descent & Feature Normalization 
 Week 3: Logistic Regression - Cost Function, Gradient Descent, Predictions & Regularizaion. 
 Week 4: Logistic Regression with Regularization, One vs. All Tranining & Prediction, Neural Network training function
 Week 5: Neural Networks: Feedforward & Cost Function, Sigmoid Gradient, Backpropogation & Regularlized Gradient
